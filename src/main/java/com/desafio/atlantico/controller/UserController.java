@@ -22,8 +22,6 @@ import com.desafio.atlantico.entity.User;
 
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
-import io.swagger.annotations.Example;
-import io.swagger.annotations.ExampleProperty;
 
 @RestController
 public class UserController {
